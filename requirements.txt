@@ -1,0 +1,6 @@
+jupyterlab
+pandas
+numpy
+matplotlib.pyplot
+datetime
+seaborn
