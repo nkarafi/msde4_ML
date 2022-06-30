@@ -1,6 +1,3 @@
-jupyterlab
+streamlit
 pandas
 numpy
-matplotlib.pyplot
-datetime
-seaborn
